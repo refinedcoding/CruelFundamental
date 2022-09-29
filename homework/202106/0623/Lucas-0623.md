@@ -7,7 +7,7 @@
 - client will use three-way / 3-step handshake
 
 ## 1. SYNC
-- client will end a SYNC to server to perform active open
+- client will send a SYNC to server to perform active open
 - client will use a random value A for the segment sequence number
 
 ## 2. SYNC-ACK
